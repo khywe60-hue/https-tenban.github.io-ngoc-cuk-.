@@ -27,4 +27,3 @@ sleep(delay)
 print()
 
 printLyrics()
-Tạo
